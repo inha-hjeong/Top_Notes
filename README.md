@@ -1,6 +1,6 @@
 # Top_Notes
 ## Team Members
-Khojiakbarov Abdullokh U1910170
-Vasiev Akmal U1910068
-Sharifov Abdulaziz U1910075
-Komiljonov Boburjon U1910275
+Khojiakbarov Abdullokh U1910170 <br>
+Vasiev Akmal U1910068 <br>
+Sharifov Abdulaziz U1910075 <br>
+Komiljonov Boburjon U1910275 <br>
